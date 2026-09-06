@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ยืนยันการสั่งซื้อ | Velvet Hands</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <a class="site-logo" href="index.html">Velvet Hands</a>
+      <nav class="site-nav">
+        <a href="product.html">สินค้าทั้งหมด</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="container form-narrow">
+      <h1>ยืนยันการสั่งซื้อ</h1>
+      <p class="text-soft">กรอกข้อมูลของคุณให้ครบ ทีมงานจะติดต่อกลับเพื่อยืนยันออเดอร์</p>
+
+      <form id="orderForm">
+        <div class="form-group">
+          <label for="customerName">ชื่อลูกค้า</label>
+          <input type="text" id="customerName" name="customerName" required>
+        </div>
+
+        <div class="form-group">
+          <label for="contact">เบอร์โทร / Line</label>
+          <input type="text" id="contact" name="contact" required>
+        </div>
+
+        <div class="form-group">
+          <label for="items">รายการสินค้า</label>
+          <input type="text" id="items" name="items" required>
+        </div>
+
+        <div class="form-group">
+          <label for="total">จำนวนเงินรวม</label>
+          <input type="text" id="total" name="total" required>
+        </div>
+
+        <div class="form-group">
+          <label for="note">หมายเหตุ</label>
+          <textarea id="note" name="note"></textarea>
+        </div>
+
+        <button type="submit" class="btn">ยืนยันสั่งซื้อ</button>
+      </form>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="text-soft">© 2026 Velvet Hands</p>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

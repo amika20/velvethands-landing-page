@@ -1,0 +1,102 @@
+[
+  {
+    "id": "deepnourish-30",
+    "name": "Hand Cream DeepNourish 30ml",
+    "mood": "deepnourish",
+    "type": "cream",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/deepnourish.jpg",
+    "description": "สูตรฟื้นบำรุงล้ำลึก เติมความชุ่มชื้นให้มือแห้งกร้านกลับมานุ่มละมุนอีกครั้ง ขนาดทดลองใช้"
+  },
+  {
+    "id": "deepnourish-100",
+    "name": "Hand Cream DeepNourish 100ml",
+    "mood": "deepnourish",
+    "type": "cream",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/deepnourish.jpg",
+    "description": "สูตรฟื้นบำรุงล้ำลึก เติมความชุ่มชื้นให้มือแห้งกร้านกลับมานุ่มละมุนอีกครั้ง ขนาดใช้งานปกติ"
+  },
+  {
+    "id": "citrusglow-30",
+    "name": "Hand Cream CitrusGlow 30ml",
+    "mood": "citrusglow",
+    "type": "cream",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/citrusglow.jpg",
+    "description": "กลิ่นส้มยูซุและเกรปฟรุตสดชื่น ปลุกพลังให้มือรู้สึกกระปรี้กระเปร่าตลอดวัน ขนาดทดลองใช้"
+  },
+  {
+    "id": "citrusglow-100",
+    "name": "Hand Cream CitrusGlow 100ml",
+    "mood": "citrusglow",
+    "type": "cream",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/citrusglow.jpg",
+    "description": "กลิ่นส้มยูซุและเกรปฟรุตสดชื่น ปลุกพลังให้มือรู้สึกกระปรี้กระเปร่าตลอดวัน ขนาดใช้งานปกติ"
+  },
+  {
+    "id": "zenwood-30",
+    "name": "Hand Cream ZenWood 30ml",
+    "mood": "zenwood",
+    "type": "cream",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/zenwood.jpg",
+    "description": "กลิ่นชาเขียวผสมไม้หอม ช่วยปรับสมดุลผิวให้รู้สึกสงบนิ่งผ่อนคลาย ขนาดทดลองใช้"
+  },
+  {
+    "id": "zenwood-100",
+    "name": "Hand Cream ZenWood 100ml",
+    "mood": "zenwood",
+    "type": "cream",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/zenwood.jpg",
+    "description": "กลิ่นชาเขียวผสมไม้หอม ช่วยปรับสมดุลผิวให้รู้สึกสงบนิ่งผ่อนคลาย ขนาดใช้งานปกติ"
+  },
+  {
+    "id": "silkbloom-30",
+    "name": "Hand Cream SilkBloom 30ml",
+    "mood": "silkbloom",
+    "type": "cream",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/silkbloom.jpg",
+    "description": "กลิ่นดอกไม้สีขาวและวนิลาพรีเมียม หรูหรามีเสน่ห์ให้ผิวมือนุ่มลื่นดุจไหม ขนาดทดลองใช้"
+  },
+  {
+    "id": "silkbloom-100",
+    "name": "Hand Cream SilkBloom 100ml",
+    "mood": "silkbloom",
+    "type": "cream",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/silkbloom.jpg",
+    "description": "กลิ่นดอกไม้สีขาวและวนิลาพรีเมียม หรูหรามีเสน่ห์ให้ผิวมือนุ่มลื่นดุจไหม ขนาดใช้งานปกติ"
+  },
+  {
+    "id": "citrusglow-night-butter",
+    "name": "Night Repair Hand Butter CitrusGlow",
+    "mood": "citrusglow",
+    "type": "butter",
+    "size": "50g",
+    "price": 149,
+    "image": "images/citrusglow.jpg",
+    "description": "สูตรเข้มข้นสำหรับกลางคืน กลิ่นส้มยูซุและเกรปฟรุต ซ่อมแซมและบำรุงผิวมือล้ำลึกระหว่างที่คุณหลับ"
+  },
+  {
+    "id": "silkbloom-night-butter",
+    "name": "Night Repair Hand Butter SilkBloom",
+    "mood": "silkbloom",
+    "type": "butter",
+    "size": "50g",
+    "price": 149,
+    "image": "images/silkbloom.jpg",
+    "description": "สูตรเข้มข้นสำหรับกลางคืน กลิ่นดอกไม้สีขาวและวนิลา ซ่อมแซมและบำรุงผิวมือล้ำลึกระหว่างที่คุณหลับ"
+  }
+]
